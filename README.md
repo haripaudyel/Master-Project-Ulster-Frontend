@@ -1,7 +1,7 @@
 # University Chat Boat Application Frontend
 
 ## Overview
-A modern frontend application built with Vue and Tailwind CSS.
+A modern frontend application built with Vue and Tailwind CSS for University Project.
 
 ## Tech Stack
 - **Vue 3** - Progressive JavaScript framework
